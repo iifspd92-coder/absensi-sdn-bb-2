@@ -1,0 +1,7 @@
+{
+  "name": "Online Attendance System",
+  "description": "An online attendance system for schools, featuring QR code scanning via camera, manual entry, and data export capabilities to Excel and PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
